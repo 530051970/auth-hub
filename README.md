@@ -92,3 +92,4 @@ interface AuthHubConfig {
 ## License
 
 MIT
+
